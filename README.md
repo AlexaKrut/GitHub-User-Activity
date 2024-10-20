@@ -13,10 +13,10 @@ Task Tracker CLI - это проект, представляющий собой 
 ### Шаги установки
 1. Клонируйте репозиторий проекта: 
    ```bash
-   git clone git@github.com:your-username/Task_Tracker.git  
+   git@github.com:your username/GitHub-User-Activity.git  
 2. Перейдите в папку проекта
    ```bash
-   cd Task_Tracker
+   cd GitHub-User-Activity
 3. Посмотрите справку о программе
    ```bash
    python3 task-cli.py -h
