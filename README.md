@@ -1,5 +1,7 @@
 # GitHub User Activity
 
+Простое решение на Python [github-user-activity](https://roadmap.sh/projects/github-user-activity) для задания с проекта [roadmap.sh](https://roadmap.sh/).
+
 ## Описание проекта
 Task Tracker CLI - это проект, представляющий собой простой командный интерфейс (CLI), который позволяет пользователю вводить имя пользователя GitHub в качестве аргумента и получать информацию о его последних действиях с использованием GitHub API
 
@@ -13,16 +15,13 @@ Task Tracker CLI - это проект, представляющий собой 
 ### Шаги установки
 1. Клонируйте репозиторий проекта: 
    ```bash
-   git@github.com:your username/GitHub-User-Activity.git  
+   git@github.com:AlexaKrut/GitHub-User-Activity.git  
 2. Перейдите в папку проекта
    ```bash
    cd GitHub-User-Activity
-3. Посмотрите справку о программе
+3. Запустите праграмму с необходимыми параметрами
    ```bash
-   python3 task-cli.py -h
-4. Запустите праграмму с необходимыми параметрами
-   ```bash
-   python3 task-cli.py <параметры>
+   python3 github-activity.py <имя пользователя>
 
 ## Использование
 
